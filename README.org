@@ -1,0 +1,10 @@
+* trivial-escapes
+
+C-style escape directives for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/williamyaoh/trivial-escapes.git   |
+| commit  | 1eca78d  |
+| systems | trivial-escapes |
+|---------+-------------------------------------------|
+
